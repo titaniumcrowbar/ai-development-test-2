@@ -1,0 +1,1 @@
+"""Customer management application backend."""
